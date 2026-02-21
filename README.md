@@ -36,13 +36,13 @@ Os materiais aqui organizados correspondem aos **Knowledge Checks (KCs)** — at
 - [309-[DF]-KC - Amazon DynamoDB](KCs/309.md) *(somente em inglês)*
 
 ## Jumpstart na AWS
-- [167-[JAWS]-KC - Well-Architected Framework](KCs/195.md)
-- [212-[JAWS]-KC - Computação (servidores)](KCs/195.md)
-- [213-[JAWS]-KC - Computação (dimensionamento e resolução de nomes)](KCs/195.md)
-- [214-[JAWS]-KC - Computação (contêineres)](KCs/195.md)
-- [215-[JAWS]-KC - Computação (bancos de dados)](KCs/195.md) *(somente em inglês)*
-- [216-[JAWS]-KC - Rede](KCs/195.md)
-- [217-[JAWS]-KC - Armazenamento e arquivamento](KCs/195.md)
+- [167-[JAWS]-KC - Well-Architected Framework](KCs/167.md)
+- [212-[JAWS]-KC - Computação (servidores)](KCs/212.md)
+- [213-[JAWS]-KC - Computação (dimensionamento e resolução de nomes)](KCs/213.md)
+- [214-[JAWS]-KC - Computação (contêineres)](KCs/214.md)
+- [215-[JAWS]-KC - Computação (bancos de dados)](KCs/215.md) *(somente em inglês)*
+- [216-[JAWS]-KC - Rede](KCs/216.md)
+- [217-[JAWS]-KC - Armazenamento e arquivamento](KCs/217.md)
 
 ## Jumpstart AWS – Nível Avançado
 - [218-[JAWS]-KC - Monitoramento e segurança](KCs/218.md)
@@ -50,7 +50,7 @@ Os materiais aqui organizados correspondem aos **Knowledge Checks (KCs)** — at
 - [220-[JAWS]-KC - Criando implantações repetíveis automatizadas](KCs/220.md)
 
 ## Preparação para Certificação
-- [195-[CERT]-KC - Preparação da Certificação do Cenário de Avaliação](KCs/195.md)
+- [195-[CERT]-KC - Preparação da Certificação do Cenário de Avaliação](KCs/195-cert.md)
 - [196-[CERT]-KC - Prática de estratégia de teste de cenário](KCs/196.md)
 - [197-[CERT]-KC - Computação em nuvem](KCs/197.md)
 - [198-[CERT]-KC - Economia da nuvem](KCs/198.md)
