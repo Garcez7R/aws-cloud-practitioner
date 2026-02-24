@@ -20,6 +20,8 @@ Os materiais aqui organizados correspondem aos **Knowledge Checks (KCs)** — at
 - [12-[CF]-KC - Introdução ao Amazon EC2](KCs/012.md)
 - [208-[CF]-KC - Vantagens da computação em nuvem](KCs/208.md)
 - [209-[CF]-KC - Serviços e categorias da AWS](KCs/209.md)
+- [210-[JAWS]-KC - Visão geral das operações do sistema](KCs/210.md)
+- [211-[JAWS]-KC - Ferramentas e automação](KCs/211.md)
 
 ## Introdução à Segurança
 - [282-[SF]-KC - Introdução à segurança](KCs/282.md)
@@ -50,7 +52,7 @@ Os materiais aqui organizados correspondem aos **Knowledge Checks (KCs)** — at
 - [220-[JAWS]-KC - Criando implantações repetíveis automatizadas](KCs/220.md)
 
 ## Preparação para Certificação
-- [195-[CERT]-KC - Preparação da Certificação do Cenário de Avaliação](KCs/195-cert.md)
+- [195-[CERT]-KC - Preparação da Certificação do Cenário de Avaliação](KCs/195.md)
 - [196-[CERT]-KC - Prática de estratégia de teste de cenário](KCs/196.md)
 - [197-[CERT]-KC - Computação em nuvem](KCs/197.md)
 - [198-[CERT]-KC - Economia da nuvem](KCs/198.md)
@@ -63,3 +65,6 @@ Os materiais aqui organizados correspondem aos **Knowledge Checks (KCs)** — at
 - [205-[CERT]-KC - Cobrança e suporte](KCs/205.md)
 - [206-[CERT]-KC - Arquitetura em nuvem](KCs/206.md)
 - [207-[CERT]-KC - Balanceamento, Dimensionamento e Monitoramento](KCs/207.md)
+
+---
+
